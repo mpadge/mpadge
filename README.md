@@ -1,4 +1,4 @@
-## hi, i'm mark
+## gidday, i'm mark
 
 
 - :loudspeaker: Mostly C++ and R
