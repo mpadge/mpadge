@@ -1,13 +1,21 @@
 ## hi, i'm mark
-<!---
-![](https://user-images.githubusercontent.com/18367515/87765518-327c5200-c818-11ea-8bb2-be94ed5cf6dc.png)
---->
-<img src="https://user-images.githubusercontent.com/6697851/87768079-e92e0180-c81b-11ea-949a-7c3b86cff1ae.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
-- :euro: Research Software Scientist for [rOpenSci](https://ropensci.org)
-- :bike: [Active Transport Futures](https://github.com/atfutures)
-- :loudspeaker: Mostly C++ and R
-- :hammer: vim + tmux. always.
-- :left_speech_bubble: [twitter](https://twitter.com/bikesRdata), [:globe_with_meridians:](https://mpadge.github.io)
+I am a Research Software Scientist for [rOpenSci](https://ropensci.org), as part of which I develop open-source tools to automatically analyse and asssess software.
+These include
+
+- [`packgraph`](https://github.com/mpadge/packgraph) to examine and analyse function call graphs
+- [`pkgreport`](https://github.com/mpadge/pkgreport) to serve a callable API which returns a formatted report on code structure and function, intended to serve as a template for software review
+- [`autotest`](https://github.com/mpadge/autotest) to automatically test R packages by throwing inputs of various forms and structures at software functions.
+
+### Active Transport Futures
+
+I am also a lead developer for Active Tranport Futures, an organisation dedicated to developing open-source software using open data to plan urban futures in which active transport plays an increasingly prominent role. See the pinned repositories below for some of that software.
+
+### What and how i code
+
+Most of my code is bundled as R packages, with a lot of that written in C++ or C.
+I do everything in vim + tmux, via my [`dotfiles`](https://github.com/mpadge/dotfiles)
+
+### Anything else?
+
+I've got an intermittently updated [blog](https://mpadge.github.io), and make intermittent noises on [twitter](https://twitter.com/bikesRdata).
