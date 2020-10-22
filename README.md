@@ -5,7 +5,7 @@ These include
 
 - [`packgraph`](https://github.com/mpadge/packgraph) to examine and analyse function call graphs
 - [`pkgreport`](https://github.com/mpadge/pkgreport) to serve a callable API which returns a formatted report on code structure and function, intended to serve as a template for software review
-- [`autotest`](https://github.com/mpadge/autotest) to automatically test R packages by throwing inputs of various forms and structures at software functions.
+- [`autotest`](https://github.com/ropenscilabs/autotest) to automatically test R packages by throwing inputs of various forms and structures at software functions.
 
 ### Active Transport Futures
 
