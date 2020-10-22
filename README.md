@@ -9,7 +9,7 @@ These include
 
 ### Active Transport Futures
 
-I am also a lead developer for Active Tranport Futures, an organisation dedicated to developing open-source software using open data to plan urban futures in which active transport plays an increasingly prominent role. See the pinned repositories below for some of that software.
+I am also a lead developer for [Active Tranport Futures](https://github.com/atfutures), an organisation dedicated to developing open-source software using open data to plan urban futures in which active transport plays an increasingly prominent role. See the pinned repositories below for some of that software.
 
 ### What and how i code
 
