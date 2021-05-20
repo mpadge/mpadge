@@ -3,8 +3,8 @@
 I am a Research Software Scientist for [rOpenSci](https://ropensci.org), as part of which I develop open-source tools to automatically analyse and asssess software.
 These include
 
-- [`packgraph`](https://github.com/mpadge/packgraph) to examine and analyse function call graphs
-- [`pkgreport`](https://github.com/mpadge/pkgreport) to serve a callable API which returns a formatted report on code structure and function, intended to serve as a template for software review
+- [`pkgstats`](https://github.com/ropenscilabs/pkgstats) to extract summary statitsics from any and every R package
+- [`pkgcheck`](https://github.com/ropenscilabs/pkgcheck) to perform comprehensive code checks, summarise results, and confirm whether a package is ready for submission for sofware peer review with rOpenSci.
 - [`autotest`](https://github.com/ropenscilabs/autotest) to automatically test R packages by throwing inputs of various forms and structures at software functions.
 
 ### Active Transport Futures
