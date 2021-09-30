@@ -19,5 +19,3 @@ I do everything in vim + tmux, via my [`dotfiles`](https://github.com/mpadge/dot
 ### Anything else?
 
 I've got an intermittently updated [blog](https://mpadge.github.io), and make intermittent noises on [twitter](https://twitter.com/bikesRdata).
-
--![Metrics](https://github.com/mpadge/mpadge/blob/main/metrics.classic.svg)
