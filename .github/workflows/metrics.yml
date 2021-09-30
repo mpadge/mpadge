@@ -30,22 +30,6 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      # ======================================================================================
-      # 🙋 Introduction
-
-      - name: 🙋 Introduction (user)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.introduction.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          user: github
-          base: header
-          plugin_introduction: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
       - name: 🦑 Personal metrics (left)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -127,21 +111,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 🧮 Repositories traffic
-
-      - name: 🧮 Repositories traffic
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
