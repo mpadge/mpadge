@@ -5,7 +5,7 @@ These include
 
 - [`pkgcheck`](https://github.com/ropensci-review-tools/pkgcheck) to implement an array of checks on R packages.
 - [`pkgstats`](https://github.com/ropensci-review-tools/pkgstats) to extract code statistics from every R package ever.
-- [`autotest`](https://github.com/ropensci-review-tools/autotest) to automatically test R packages by mutating inputs
+- [`autotest`](https://github.com/ropensci-review-tools/autotest) to automatically test R packages by mutating inputs.
 
 ### Active Transport Futures
 
