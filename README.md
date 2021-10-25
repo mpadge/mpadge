@@ -1,11 +1,11 @@
 ## hi, i'm mark
 
-I am a Research Software Scientist for [rOpenSci](https://ropensci.org), as part of which I develop open-source tools to automatically analyse and asssess software.
+I am a Research Software Scientist for [rOpenSci](https://ropensci.org), as part of which I develop open-source tools to automatically analyse and assess software.
 These include
 
-- [`packgraph`](https://github.com/mpadge/packgraph) to examine and analyse function call graphs
-- [`pkgreport`](https://github.com/mpadge/pkgreport) to serve a callable API which returns a formatted report on code structure and function, intended to serve as a template for software review
-- [`autotest`](https://github.com/ropenscilabs/autotest) to automatically test R packages by throwing inputs of various forms and structures at software functions.
+- [`pkgcheck`](https://github.com/ropensci-review-tools/pkgcheck) to implement an array of checks on R packages.
+- [`pkgstats`](https://github.com/ropensci-review-tools/pkgstats) to extract code statistics from every R package ever.
+- [`autotest`](https://github.com/ropensci-review-tools/autotest) to automatically test R packages by mutating inputs
 
 ### Active Transport Futures
 
