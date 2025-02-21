@@ -1,6 +1,6 @@
 ## hi, i'm mark
 
-I am a Research Software Scientist for [rOpenSci](https://ropensci.org). I
+I lead [rOpenSci](https://ropensci.org)'s software review process, for which I
 develop and maintain the open-source tools used to automatically analyse and
 assess software. These include
 
